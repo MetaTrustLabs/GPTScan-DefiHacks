@@ -1,0 +1,20 @@
+﻿Project Name,Rule,TP,TP-Type,TN,FP,FP-Type,FN,FN-Type,TP+TN+FP+FN,Minus
+Hack-20210519-PancakeBunny,2,1,FLP,1,0,,0,,2,0
+Hack-20210603-PancakeHunny,5,1,FLP,4,0,,0,,5,0
+Hack-20220321-OneRingFinance,3,1,FLP,2,0,,0,,3,0
+Hack-20220529-NOVOProtocol,4,0,,2,1,ANC,1,UT,4,0
+Hack-20220606-Discover,2,1,FLP,1,0,,0,,2,0
+Hack-20220616_InverseFinance,2,1,FLP,1,0,,0,,2,0
+Hack-20220807_EGDFinance,3,2,"FLB (new), FLP",1,0,,0,,3,0
+Hack-20220902-ShadowFi,3,1,UT,2,0,,0,,3,0
+Hack-20220906-NXUSD,2,1,FLP,1,0,,0,,2,0
+Hack-20220909_YYDS,2,0,,1,0,,1,FLP,2,0
+Hack-20220928-BXH,2,1,FLP,1,0,,0,,2,0
+Hack-20221001-RLToken,2,0,,1,0,,1,FLP,2,0
+Hack-20221012-ATK,2,0,,1,0,,1,FLP,2,0
+,34,10,,19,1,,4,,34,0
+,,,,,,,,,,
+,Precision,0.909090909,Recall,0.714285714,F1 score,0.8,Accuracy,0.852941176,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
