@@ -1,5 +1,7 @@
 # GPTScan-DefiHacks
 
+<img width="792" alt="Screenshot 2023-08-07 at 23 00 11" src="https://github.com/MetaTrustLabs/GPTScan-DefiHacks/assets/7311190/5a294225-24f7-45b4-808c-64e06a78b069">
+
 ### Hack-20210519-PancakeBunny
 
 https://github.com/MetaTrustLabs/GPTScan-DefiHacks/blob/dev/reports/MetaScan_AI_Analyzer_Report_Hack-20210519-PancakeBunny%20(1OK-FLP)_202308051351.pdf
