@@ -1,6 +1,12 @@
 # GPTScan-DefiHacks
 
+Paper: **When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**
+
+https://arxiv.org/abs/2308.03314
+
 <img width="792" alt="Screenshot 2023-08-07 at 23 00 11" src="https://github.com/MetaTrustLabs/GPTScan-DefiHacks/assets/7311190/5a294225-24f7-45b4-808c-64e06a78b069">
+
+See the result of Web3Bugs dataset at https://github.com/MetaTrustLabs/GPTScan-Web3Bugs.
 
 ### Hack-20210519-PancakeBunny
 
